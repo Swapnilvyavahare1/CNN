@@ -1,9 +1,9 @@
 # CNN-
 
-MNIST Dataset
-CIFAR10 Dataset
+1) MNIST Dataset
+2) CIFAR10 Dataset
 
-CNN
+CNN-
 COnv2D
 Relu
 MaxPooling
